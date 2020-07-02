@@ -1,5 +1,5 @@
 {
-  "services: [
+  "services": [
     {
       "name" : "service1"
     },
@@ -10,7 +10,7 @@
       "name" : "service3"
     }
   ],
-  "service1" {
+  "service1": {
     "classes": [
       {
          "name": "Class1"
@@ -22,9 +22,9 @@
         "name": "Class3"
       }
     ],
-    "type" "java"
+    "type": "java"
   },
-  "service2" {
+  "service2": {
     "classes": [
       {
          "name": "Class1"
@@ -36,9 +36,9 @@
         "name": "Class3"
       }
     ],
-    "type" "java"
+    "type": "java"
   },
-  "service3" {
+  "service3": {
     "classes": [
       {
          "name": "Class1"
@@ -50,6 +50,6 @@
         "name": "Class3"
       }
     ],
-    "type" "java"
+    "type": "java"
   }
 }
