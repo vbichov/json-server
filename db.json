@@ -1,5 +1,4 @@
 {
-
   "services: [
     {
       "name" : "service1"
@@ -24,7 +23,7 @@
       }
     ],
     "type" "java"
-  }
+  },
   "service2" {
     "classes": [
       {
@@ -38,7 +37,7 @@
       }
     ],
     "type" "java"
-  }
+  },
   "service3" {
     "classes": [
       {
