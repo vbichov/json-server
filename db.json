@@ -85,7 +85,7 @@
 
       },
       {
-         "name": "Class2"
+         "name": "Class2",
          "methods": [
            {
                "name": "method1",
