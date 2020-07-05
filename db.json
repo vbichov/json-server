@@ -17,13 +17,13 @@
          "methods": [
            {
                "name": "method1",
-               "mon": true
+               "mon": true,
                "test": 11
            },
            
            {
                "name": "method2",
-               "mon": true
+               "mon": false,
                "test": 10
            }
         ]
@@ -33,13 +33,13 @@
          "methods": [
            {
                "name": "method1",
-               "mon": true
+               "mon": true,
                "test": 11
            },
            
            {
                "name": "method2",
-               "mon": true
+               "mon": false,
                "test": 10
            }
         ]
@@ -50,13 +50,13 @@
          "methods": [
            {
                "name": "method1",
-               "mon": true
+               "mon": true,
                "test": 11
            },
            
            {
                "name": "method2",
-               "mon": true
+               "mon": true,
                "test": 10
            }
         ]
@@ -72,13 +72,13 @@
          "methods": [
            {
                "name": "method1",
-               "mon": true
+               "mon": true,
                "test": 11
            },
            
            {
                "name": "method2",
-               "mon": true
+               "mon": true,
                "test": 10
            }
         ]
@@ -89,13 +89,13 @@
          "methods": [
            {
                "name": "method1",
-               "mon": true
+               "mon": true,
                "test": 11
            },
            
            {
                "name": "method2",
-               "mon": true
+               "mon": false,
                "test": 10
            }
         ]
@@ -106,13 +106,13 @@
          "methods": [
            {
                "name": "method1",
-               "mon": true
+               "mon": true,
                "test": 11
            },
            
            {
                "name": "method2",
-               "mon": true
+               "mon": false,
                "test": 10
            }
         ]
@@ -128,13 +128,13 @@
          "methods": [
            {
                "name": "method1",
-               "mon": true
+               "mon": true,
                "test": 11
            },
            
            {
                "name": "method2",
-               "mon": true
+               "mon": false,
                "test": 10
            }
         ]
@@ -145,13 +145,13 @@
          "methods": [
            {
                "name": "method1",
-               "mon": true
+               "mon": true,
                "test": 11
            },
            
            {
                "name": "method2",
-               "mon": true
+               "mon": true,
                "test": 10
            }
         ]
@@ -162,13 +162,13 @@
          "methods": [
            {
                "name": "method1",
-               "mon": true
+               "mon": true,
                "test": 11
            },
            
            {
                "name": "method2",
-               "mon": true
+               "mon": true,
                "test": 10
            }
         ]
