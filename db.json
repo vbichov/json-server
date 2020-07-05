@@ -1,180 +1,167 @@
 {
-  "services": [
-    {
-      "name" : "service1"
-    },
-    {
-      "name" : "service2"
-    },
-    {
-      "name" : "service3"
-    }
-  ],
-  "service1": {
-    "classes": [
-      {
-         "name": "Class1",
-         "methods": [
-           {
-               "name": "method1",
-               "mon": true,
-               "test": 11
-           },
-           
-           {
-               "name": "method2",
-               "mon": false,
-               "test": 10
-           }
-        ]
-      },
-      {
-         "name": "Class2",
-         "methods": [
-           {
-               "name": "method1",
-               "mon": true,
-               "test": 11
-           },
-           
-           {
-               "name": "method2",
-               "mon": false,
-               "test": 10
-           }
-        ]
+	"services": [{
+			"name": "service1"
+		},
+		{
+			"name": "service2"
+		},
+		{
+			"name": "service3"
+		}
+	],
+	"service1": {
+		"classes": [{
+				"name": "Class1",
+				"methods": [{
+						"name": "method1",
+						"mon": true,
+						"test": 11
+					},
 
-      },
-      {
-        "name": "Class3",
-         "methods": [
-           {
-               "name": "method1",
-               "mon": true,
-               "test": 11
-           },
-           
-           {
-               "name": "method2",
-               "mon": true,
-               "test": 10
-           }
-        ]
+					{
+						"name": "method2",
+						"mon": false,
+						"test": 10
+					}
+				]
+			},
+			{
+				"name": "Class2",
+				"methods": [{
+						"name": "method1",
+						"mon": true,
+						"test": 11
+					},
 
-      }
-    ],
-    "type": "java"
-  },
-  "service2": {
-    "classes": [
-      {
-         "name": "Class1",
-         "methods": [
-           {
-               "name": "method1",
-               "mon": true,
-               "test": 11
-           },
-           
-           {
-               "name": "method2",
-               "mon": true,
-               "test": 10
-           }
-        ]
+					{
+						"name": "method2",
+						"mon": false,
+						"test": 10
+					}
+				]
 
-      },
-      {
-         "name": "Class2",
-         "methods": [
-           {
-               "name": "method1",
-               "mon": true,
-               "test": 11
-           },
-           
-           {
-               "name": "method2",
-               "mon": false,
-               "test": 10
-           }
-        ]
+			},
+			{
+				"name": "Class3",
+				"methods": [{
+						"name": "method1",
+						"mon": true,
+						"test": 11
+					},
 
-      },
-      {
-        "name": "Class3",
-         "methods": [
-           {
-               "name": "method1",
-               "mon": true,
-               "test": 11
-           },
-           
-           {
-               "name": "method2",
-               "mon": false,
-               "test": 10
-           }
-        ]
+					{
+						"name": "method2",
+						"mon": true,
+						"test": 10
+					}
+				]
 
-      }
-    ],
-    "type": "java"
-  },
-  "service3": {
-    "classes": [
-      {
-         "name": "Class1",
-         "methods": [
-           {
-               "name": "method1",
-               "mon": true,
-               "test": 11
-           },
-           
-           {
-               "name": "method2",
-               "mon": false,
-               "test": 10
-           }
-        ]
+			}
+		],
+		"type": "java"
+	},
+	"service2": {
+		"classes": [{
+				"name": "Class1",
+				"methods": [{
+						"name": "method1",
+						"mon": true,
+						"test": 11
+					},
 
-      },
-      {
-         "name": "Class2",
-         "methods": [
-           {
-               "name": "method1",
-               "mon": true,
-               "test": 11
-           },
-           
-           {
-               "name": "method2",
-               "mon": true,
-               "test": 10
-           }
-        ]
+					{
+						"name": "method2",
+						"mon": true,
+						"test": 10
+					}
+				]
 
-      },
-      {
-        "name": "Class3",
-         "methods": [
-           {
-               "name": "method1",
-               "mon": true,
-               "test": 11
-           },
-           
-           {
-               "name": "method2",
-               "mon": true,
-               "test": 10
-           }
-        ]
+			},
+			{
+				"name": "Class2",
+				"methods": [{
+						"name": "method1",
+						"mon": true,
+						"test": 11
+					},
 
-      }
-    ],
-    "type": "java"
-  }
+					{
+						"name": "method2",
+						"mon": false,
+						"test": 10
+					}
+				]
+
+			},
+			{
+				"name": "Class3",
+				"methods": [{
+						"name": "method1",
+						"mon": true,
+						"test": 11
+					},
+
+					{
+						"name": "method2",
+						"mon": false,
+						"test": 10
+					}
+				]
+
+			}
+		],
+		"type": "java"
+	},
+	"service3": {
+		"classes": [{
+				"name": "Class1",
+				"methods": [{
+						"name": "method1",
+						"mon": true,
+						"test": 11
+					},
+
+					{
+						"name": "method2",
+						"mon": false,
+						"test": 10
+					}
+				]
+
+			},
+			{
+				"name": "Class2",
+				"methods": [{
+						"name": "method1",
+						"mon": true,
+						"test": 11
+					},
+
+					{
+						"name": "method2",
+						"mon": true,
+						"test": 10
+					}
+				]
+
+			},
+			{
+				"name": "Class3",
+				"methods": [{
+						"name": "method1",
+						"mon": true,
+						"test": 11
+					},
+
+					{
+						"name": "method2",
+						"mon": true,
+						"test": 10
+					}
+				]
+
+			}
+		],
+		"type": "java"
+	}
 }
